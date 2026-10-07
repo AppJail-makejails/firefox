@@ -12,7 +12,7 @@ Mozilla Firefox is a free and open source web browser descended from the Mozilla
 
 wikipedia.org/wiki/Firefox
 
-<img src="https://raw.githubusercontent.com/AppJail-makejails/firefox/refs/heads/main/firefox/firefox.png" width="30%" height="auto" alt="firefox logo">
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/500px-Firefox_logo%2C_2019.svg.png" width="30%" height="auto" alt="firefox logo">
 
 ## How to use this AppJail
 

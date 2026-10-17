@@ -16,7 +16,7 @@ RUN set -xe; \
     sysrc clear_tmp_X=NO; \
     \
     pkg update; \
-    pkg install firefox dbus; \
+    pkg install firefox; \
     \
     if [ -z "${NO_PKGCLEAN}" ]; then \
         pkg clean -a; \

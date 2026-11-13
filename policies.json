@@ -1,0 +1,14 @@
+{
+  "policies": {
+    "Preferences": {
+      "browser.fullscreen.autohide": {
+        "Value": false,
+        "Status": "locked"
+      },
+      "widget.dmabuf-webgl.enabled": {
+        "Value": false,
+        "Status": "locked"
+      }
+    }
+  }
+}

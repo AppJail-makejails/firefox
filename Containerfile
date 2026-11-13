@@ -23,3 +23,7 @@ RUN set -xe; \
         rm -rf /var/cache/pkg/*; \
     fi; \
     rm -rf /var/db/pkg/repos/*
+
+RUN mkdir -p /usr/local/lib/firefox/distribution
+
+COPY policies.json /usr/local/lib/firefox/distribution
